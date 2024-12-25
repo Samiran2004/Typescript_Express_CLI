@@ -1,0 +1,20 @@
+{
+  "name": "typescript_express_cli",
+  "version": "1.0.1",
+  "description": "This is a CLI tool for creating EXPRESS js folder structure.",
+  "main": "src/index.js",
+  "bin": {
+    "create-express-ts": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "typescript",
+    "express",
+    "folder-structure"
+  ],
+  "author": "Samiran Samanta",
+  "license": "MIT"
+}
