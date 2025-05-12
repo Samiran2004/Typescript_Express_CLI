@@ -1,6 +1,6 @@
 {
   "name": "typescript_express_cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a CLI tool for creating EXPRESS js folder structure.",
   "main": "src/index.js",
   "bin": {
