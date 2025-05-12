@@ -29,6 +29,8 @@ create-express-ts <your_project_name>
 │   ├── services/
 │   ├── assets/
 │   ├── data/
+|   |__ dto/
+|   |__ repository
 ├── .env
 ├── .gitignore
 ├── tsconfig.json
