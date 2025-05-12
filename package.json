@@ -13,7 +13,8 @@
     "cli",
     "typescript",
     "express",
-    "folder-structure"
+    "folder-structure",
+    "npm"
   ],
   "author": "Samiran Samanta",
   "license": "MIT"

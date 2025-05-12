@@ -13,7 +13,9 @@ const folders = [
     "src/configs",
     "src/services",
     "src/assets",
-    "src/data"
+    "src/data",
+    "src/dto",
+    "src/repository"
 ]
 
 //Files to create...
@@ -33,15 +35,15 @@ const files = [
                     dev: "node --watch dist/app.js",
                 },
                 dependencies: {
-                    express: "^4.21.1",
+                    express: "^5.1.0",
                     dotenv: "^16.4.7"
                 },
                 devDependencies: {
                     '@types/dotenv': "^8.2.3",
-                    '@types/express': "^5.0.0",
+                    '@types/express': "^5.0.1",
                     '@types/node': "^22.10.2",
                     'ts-node': "^10.9.2",
-                    'typescript': "^5.7.2"
+                    'typescript': "^5.8.3"
                 }
             }, null, 2);
         }
